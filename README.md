@@ -200,5 +200,3 @@ Paleta definida na aba Assets, inspirada no verde do Xbox:
 - **Próximos passos possíveis:** evolução mensal de assinaturas, ticket médio por plano, taxa de contratação dos complementos e uso do valor dos cupons.
 
 ---
-
-## 👤 Autoria
